@@ -1,3 +1,9 @@
+/*
+ * 代码说明
+ * 代码由 筱锋xiao_lfeng 编写
+ * 其开发者由此互联网ICP备案作者编写：粤ICP备2022014822号
+ */
+
 #include <cstdio>
 
 #define MaxSize 100
